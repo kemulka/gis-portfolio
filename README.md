@@ -14,4 +14,4 @@ Advanced GIS tools and techniques.
 
 # Follow the links below to see my data viz
 
-[Visualizing Govt Debt](/govtdebt.md)
+[VisitPITTSBURGH Map](/visitpghmap.md)
