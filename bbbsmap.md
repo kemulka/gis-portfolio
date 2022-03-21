@@ -11,17 +11,17 @@ https://www.bbbs.org/about-us/
 ![image](https://user-images.githubusercontent.com/78671713/159191525-55fa2af8-707d-4344-9691-7c5960e073e0.png)
 
 
-![alt text](/bbbsmap1.jpeg)
+![image](/bbbsmap1.jpg)
 
 
 
 
-![alt text](/bbbsmap2.jpeg)
+![image](/bbbsmap2.jpg)
 
 
 
 
-![alt text](/bbbsmap3.jpeg)
+![alt text](/bbbsmap3.jpg)
 
 
 
