@@ -19,9 +19,13 @@ Using Google's Map Styling Wizard, I created a new map using the Silver style. I
 The final theme elements are set as follows:
 
 Labels - Marshland with white halo
+
 Land - Silver
+
 Water - Spring Green
+
 Parks - Boulder
+
 Roads and transit features - map style default
 
 My thinking is that BBBS would benefit from having a map on their national website displaying all of the regional branches. Since they have branches across the US, the map would be viewed at the national and local levels. What would matter is highlighting the offices on the map (I envision these in Spring Green), so I kept the land features neutral. There will be no offices in the water, so I chose to incorporate the Spring Green there. I like how the water pops without making the land area look busy. 
