@@ -31,16 +31,10 @@ My thinking is that BBBS would benefit from having a map on their national websi
 
 ![bbbsmap2](https://user-images.githubusercontent.com/78671713/159192566-0ce3b64a-5a46-4b13-a3d1-9f048afcc884.JPG)
 
-As an alternative, I tried making the labels green to add more color to the map. Ultimately I felt the map could work this way on its own but when adding the BBBS offices as points it would make the land are look too busy (this styling was scrapped in favor of the simpler black labels pictured above).
+As an alternative, I tried making the labels green to add more color to the map. Ultimately I felt the map could work this way on its own but when adding the BBBS offices as points it would make the land area look too busy (this styling was scrapped in favor of the simpler black labels pictured above).
 
 ![image](https://user-images.githubusercontent.com/78671713/159192525-0d7acf1d-f23d-464e-9a15-55805ba81a32.png)
 
-
-![image](/bbbsmap1.jpg)
-
-
-
-![image](/bbbsmap2.jpg)
 
 
 
