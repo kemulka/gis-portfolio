@@ -1,7 +1,7 @@
 
 # Custom Google Map Theme for Big Brothers Big Sisters
 
-For this exercise I chose to develop a map theme for the organization Big Brothers Big Sisters (BBBS) - a renowned national youth mentoring organization. I worked with the local Pittsburgh chapter on a consulting project for a class last year, so I am quite familiar with their work (it's great, btw!). 
+For this exercise I chose to develop a map theme for the organization Big Brothers Big Sisters (BBBS) of America - a renowned national youth mentoring organization. I worked with the local Pittsburgh chapter on a consulting project for a class last year, so I am quite familiar with their work (it's great, btw!). 
 
 BBBS Website: https://www.bbbs.org/about-us/
 
