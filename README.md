@@ -18,4 +18,4 @@ I am interested in advancing my knowledge of GIS tools and techniques through Es
 
 [VisitPITTSBURGH Map](/visitpghmap.md)
 
-[Big Brothers Big Sisters Map](/bbbsmap.html)
+[Big Brothers Big Sisters Map](/bbbsmap.md)
